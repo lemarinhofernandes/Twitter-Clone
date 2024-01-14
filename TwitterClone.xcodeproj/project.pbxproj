@@ -19,6 +19,7 @@
 		C1FC069C2B547C16004DD3CC /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FC069B2B547C16004DD3CC /* Extensions.swift */; };
 		C1FC069F2B5480D2004DD3CC /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FC069E2B5480D2004DD3CC /* LoginController.swift */; };
 		C1FC06A12B5481E9004DD3CC /* RegistrationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FC06A02B5481E9004DD3CC /* RegistrationController.swift */; };
+		C1FC06A32B548803004DD3CC /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FC06A22B548803004DD3CC /* Utilities.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		C1FC069B2B547C16004DD3CC /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		C1FC069E2B5480D2004DD3CC /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		C1FC06A02B5481E9004DD3CC /* RegistrationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationController.swift; sourceTree = "<group>"; };
+		C1FC06A22B548803004DD3CC /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				C1FC069B2B547C16004DD3CC /* Extensions.swift */,
+				C1FC06A22B548803004DD3CC /* Utilities.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				C1FC06982B5472AD004DD3CC /* NotificationsController.swift in Sources */,
 				C1FC069A2B5472B4004DD3CC /* ConversationsController.swift in Sources */,
+				C1FC06A32B548803004DD3CC /* Utilities.swift in Sources */,
 				C1FC06782B546F7C004DD3CC /* AppDelegate.swift in Sources */,
 				C1FC06A12B5481E9004DD3CC /* RegistrationController.swift in Sources */,
 				C1FC069C2B547C16004DD3CC /* Extensions.swift in Sources */,
