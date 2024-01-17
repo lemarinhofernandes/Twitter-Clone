@@ -48,4 +48,8 @@ class Utilities {
         button.setAttributedTitle(attributedTitle, for: .normal)
         return button
     }
+    
+    func textFieldFactory(with placeholder: String) -> UITextField {
+        return textField(withPlaceholder: placeholder)
+    }
 }
